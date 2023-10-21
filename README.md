@@ -1,4 +1,4 @@
-<img alt="coding" align="right" src="[https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif)">
+<img alt="coding"  src="https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif">
 <br>
 
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
