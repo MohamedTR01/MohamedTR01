@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="350" src="[https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.isical.ac.in%2F~tihisi%2FAdvt%2FMLandDataScience.html&psig=AOvVaw0I4BEUtTT-iabmWc9XYu8o&ust=1697998330567000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODk1-reh4IDFQAAAAAdAAAAABBF)">
+<img align="right" alt="coding" width="350" src="https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 
