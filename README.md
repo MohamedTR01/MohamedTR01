@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **😁**
 
-- ⚡ Fun fact **I'm funny😁**
+- ⚡ Fun fact : **I'm funny😁**
 
 <br>
 <h3 align="left">Connect with me:</h3>
