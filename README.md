@@ -1,4 +1,4 @@
-<img align="right" alt="coding" src="https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif">
+![](https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif)
 <br>
 
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
