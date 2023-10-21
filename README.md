@@ -1,4 +1,4 @@
-<img alt="coding" align="bottom" width="800" height="350" src="https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif">
+<img alt="coding" align="bottom" width="1000" height="400" src="https://github.com/MohamedTR01/MohamedTR01/blob/main/ImageB.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 
